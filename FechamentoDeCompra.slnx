@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FechamentoDeCompra.vcxproj" Id="de10b64e-9a31-4ba3-a455-4b68065e785d" />
+</Solution>
